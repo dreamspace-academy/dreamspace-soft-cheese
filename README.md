@@ -1,9 +1,6 @@
 
 # Soft Cheesemaking in Batticaloa at DreamSpace Bio Lab
 
-This project was done to establish know-how on making soft cheese with easily available ingredients in Batticaloa, Sri Lanka.
-
-Cheese is a fermented dairy product and the practice of making cheese goes back 8000 to 10000 years since the initial domestication of milk-producing animals took place. Cheese is an excellent source of protein, vitamins and calcium. Cheese products have a higher amount of calcium than milk. Apart from having higher calcium content than milk, cheese can be a better source of calcium for many people because is low in lactose compared to  milk. In this project, we explored the process of making cheese with low tech, and low-budget settings. Which could be beneficial for underserved local communities in Sri Lanka.
 
 ## Authors
 
@@ -67,7 +64,7 @@ Batch 4: The texture was observed more different than other batches and it was m
 
 Cheese provides a valuable alternative to fermented milk and yoghurts as a food vehicle for probiotic delivery, due to certain potential advantages. It creates a buffer against the highly acidic environment in the gastrointestinal tract and thus creates a more favourable environment for probiotic survival throughout the gastric transit, due to higher pH. More over, the dense matrix and relatively high-fat content of cheese may offer additional pro tection to probiotic bacteria in the stomach.
 
-![](RackMultipart20221128-1-xbvv1v_html_7ff53c9ca1b00890.png)
+![IMG_3178 (1)](https://user-images.githubusercontent.com/54774527/204254902-5ed349c4-e0ad-4db4-ae92-62f6ee268a81.JPG)
 
 **Figure 1. Soft cheese made with lime juice and milk**
 
